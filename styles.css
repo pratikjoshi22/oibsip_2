@@ -1,0 +1,31 @@
+body{
+    margin: 60px;
+    background-color: black;
+    color: white;
+    
+  }
+  .container-fluid{
+
+    
+  }
+  .header{
+    text-align: center;
+  }
+ 
+  
+  .main{
+    max-width: 660px; 
+      margin: 0 auto;
+  }
+  li{
+      line-height:2;
+  }
+  li span{
+    font-weight: bold;
+  }
+  .footer{
+    text-align:center;
+  }
+  #codedby{
+    text-align:center;
+  }
